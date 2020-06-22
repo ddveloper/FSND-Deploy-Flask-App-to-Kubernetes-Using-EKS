@@ -1,0 +1,3 @@
+JWT_SECRET='dz4JWTSecret'
+LOG_LEVEL=DEBUG
+
